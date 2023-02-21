@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/skelkelian/Library/Mobile Documents/com~apple~CloudDocs/School/Citrus College/Winter 2022/CS 225/CS-225-Code"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/skelkelian/Library/Mobile Documents/com~apple~CloudDocs/School/Citrus College/Winter 2022/CS 225/CS-225-Code/cmake-build-debug
