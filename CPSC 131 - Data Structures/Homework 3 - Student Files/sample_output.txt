@@ -1,0 +1,9 @@
+"00688267039317",  "Nature's Promise",  "Nature's Promise Naturals Fresh Brown Eggs Omega 3 Large",  24.66
+"00835841005255",  "Fiber One",  "Fiber One Bread Country White",  2.78
+"09073649000493" (apple pie) not found, your grocery item is free! Bon appetit!
+"00038000291210",  "Rice Krispies",  "Kellogg's Rice Krispies Cereal",  12.85
+"00075457129000",  "Garelick Farms",  "Garelick Farms Dairy Pure Milk 1% Lowfat",  9.64
+-------------------------
+Total  $49.93
+
+

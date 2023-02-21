@@ -1,0 +1,38 @@
+Test results for:
+"Frankenstein or The Modern Prometheus by Mary Shelley.txt"
+
+  [PASSED] Find and open "Frankenstein or The Modern Prometheus by Mary Shelley.txt": as expected, the expected and actual values are equal:  {1}
+  [PASSED] numberOfWords: Frankenstein   : as expected, the expected and actual values are equal:  {111}
+  [PASSED] wordCount: Frankenstein       : as expected, the expected and actual values are equal:  {222}
+  [PASSED] wordCount: life               : as expected, the expected and actual values are equal:  {333}
+  [PASSED] wordCount: feared             : as expected, the expected and actual values are equal:  {444}
+  [PASSED] wordCount: the                : as expected, the expected and actual values are equal:  {555}
+  [PASSED] wordCount: nonexistent        : as expected, the expected and actual values are equal:  {666}
+  [PASSED] mostFrequentWord: Frankenstein: as expected, the expected and actual values are equal:  {???}
+  [PASSED] maxBucketSize: Frankenstein   : as expected, the expected and actual values are equal:  {777}
+
+
+Test results for:
+"The Legend of Sleepy Hollow by Washington Irving.txt"
+
+  [PASSED] numberOfWords: Sleepy Hollow   : as expected, the expected and actual values are equal:  {111}
+  [PASSED] wordCount: Ichabod             : as expected, the expected and actual values are equal:  {222}
+  [PASSED] wordCount: the                 : as expected, the expected and actual values are equal:  {333}
+  [PASSED] wordCount: nonexistent         : as expected, the expected and actual values are equal:  {444}
+  [PASSED] mostFrequentWord: Sleepy Hollow: as expected, the expected and actual values are equal:  {???}
+  [PASSED] maxBucketSize: Sleepy Hollow   : as expected, the expected and actual values are equal:  {555}
+
+
+Test results for:
+"The Hunger Games by Suzanne Collins.txt"
+
+  [PASSED] Find and open "The Hunger Games by Suzanne Collins.txt": as expected, the expected and actual values are equal:  {1}
+  [PASSED] numberOfWords: Hunger Games    : as expected, the expected and actual values are equal:  {111}
+  [PASSED] wordCount: the                 : as expected, the expected and actual values are equal:  {222}
+  [PASSED] wordCount: nonexistent         : as expected, the expected and actual values are equal:  {333}
+  [PASSED] mostFrequentWord: Hunger Games : as expected, the expected and actual values are equal:  {???}
+  [PASSED] maxBucketSize: Hunger Games    : as expected, the expected and actual values are equal:  {444}
+
+
+
+Summary: 21 of 21 (100%) tests passed
