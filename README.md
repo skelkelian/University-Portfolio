@@ -69,6 +69,9 @@ In this course I learned the basics of programming in C++. This includes the des
 | 13 | Sorting Algorithm | [Lab 13](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2013.cpp)
 | 14 | String Comparison | [Lab 14](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2014.cpp)
 
+#### Final Project
+In the final project, we were tasked with coding a text-based game. I decided to code a text-based Maze game which allowed the player to select between mazes of various size. The code for this project is located in the [Final Project - Maze folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20120%20-%20Introduction%20to%20Programming/Final%20Project%20-%20Maze).
+
 ## EGME 308 - Numerical Methods
 
 ## EGME 205 - Digital Computation
