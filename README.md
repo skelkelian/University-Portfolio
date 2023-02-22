@@ -9,14 +9,14 @@ This repository contains most of the projects I have worked on throughout my und
 [EGME 205 - Digital Computation](#egme-205---digital-computation)    
 
 ## CPSC 131 - Data Structures
-Homework in this class was a collection of "mini projects" that build on top of one another introducing new concepts as the course progressed.
-| Homework No. | Name | Key Topics |
-| :------------: | :-------------: | :-------------: |
-| 1 | Introduction and Review | `C++ Basics` `Input/Output` `Dynamic Memory` `Overloading Insertion/Extraction Operators` |
-| 2 | Sequence Containers | `Arrays` `Vectors` `Singly Linked List` `Doubly Linked List` |
-| 3 | Container Adapters | `Stack` `Queue` `Adapter Container` `Recursion` |
-| 4 | Ordered Associative Containers | `Binary Search Tree` `Associative Containers` |
-| 5 | Word Counting | `Unordered Containers` `Hash Tables` |
+In this course I learned fundamental data structures and algorithms. These data structures include arrays, vectors, stacks, queues, linked lists, trees, heaps, hash tables, and graphs. Some of the algorithms discussed were searching, sorting, traversing, and hashing. Homework in this class was a collection of "mini projects" that build on top of one another introducing new concepts as the course progressed.
+| Homework No. | Name | Key Topics | PDF File |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 1 | Introduction and Review | `C++ Basics` `Input/Output` `Dynamic Memory` `Overloading Insertion/Extraction Operators` | [Homework 1: Introduction and Review](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20131%20-%20Data%20Structures/Homework%201%20-%20Student%20Files/Introduction%20%26%20Review%20Project.pdf)
+| 2 | Sequence Containers | `Arrays` `Vectors` `Singly Linked List` `Doubly Linked List` | [Homework 2: Sequence Containers](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20131%20-%20Data%20Structures/Homework%202%20-%20Student%20Files/Sequence%20Containers%20Homework.pdf)
+| 3 | Container Adapters | `Stack` `Queue` `Adapter Container` `Recursion` | [Homework 3: Container Adapters](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20131%20-%20Data%20Structures/Homework%203%20-%20Student%20Files/Container%20Adapters%20Homework.pdf)
+| 4 | Ordered Associative Containers | `Binary Search Tree` `Associative Containers` | [Homework 4: Ordered Associative Containers](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20131%20-%20Data%20Structures/Homework%204%20-%20Student%20Files/Associative%20Containers%20Homework.pdf)
+| 5 | Unordered Containers | `Unordered Containers` `Hash Tables` | [Homework 5: Unordered Containers](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20131%20-%20Data%20Structures/Homework%205%20-%20Student%20Files/Unordered%20Containers%20Homework.pdf)
 
 
 ## CPSC 121 - Object Oriented Programming
