@@ -21,7 +21,7 @@ In this course I learned fundamental data structures and algorithms. These data 
 
 ## CPSC 121 - Object Oriented Programming
 In this course I learned the concepts of object oriented programming (OOP). The homeowork (labs) are located in the [Lab Code folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Code) and the assignment description for each lab is located in the [Lab Assignments folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments).
-| Project No. | Name | PDF File |
+| Lab No. | Name | PDF File |
 | :------------: | :-------------: | :-------------: |
 | 1 | Hello World | [Lab 1](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%201.pdf) |
 | 2 | General Arithmetic Operations | [Lab 2](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%202.pdf) |
@@ -51,6 +51,23 @@ In this course I learned the concepts of object oriented programming (OOP). The 
 | 26 | Arrays Water Tower | [Lab 26](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2026%20Arrays%20Water%20Tower.pdf)
 
 ## CPSC 120 - Introduction to Programming
+In this course I learned the basics of programming in C++. This includes the design and execution of programs; sequential nature of programs; use of assignment, control and input/output statements to accomplish desired tasks; design and use of functions. Homework in this class was in the form of "labs" which are located in the [Labs folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20120%20-%20Introduction%20to%20Programming).
+| Lab No. | Name | Lab Code |
+| :------------: | :-------------: | :-------------: |
+| 1 | Arithmetic Operations | [Lab 1](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%201.cpp) |
+| 2 | Surface Area Calculator | [Lab 2](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%202.cpp) |
+| 3 | Chocolate Box Organizer | [Lab 3](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%203.cpp) |
+| 4 | Do While Loop: Task Scheduler | [Lab 4](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%204.cpp) |
+| 5 | Switch Statements | [Lab 5](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%205.cpp)
+| 6 | Input/Output Stream: Probability Calculator | [Lab 6](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%206.cpp)
+| 7 | Input/Output Stream: Text Converter | [Lab 7](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%207.cpp)
+| 8 | Function Practice: Number Cutoff Calculator | [Lab 8](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%208.cpp)
+| 9 | Function Practice: Store Total Calculator | [Lab 9](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%209.cpp)
+| 10 | Insert into an Array | [Lab 10](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2010.cpp)
+| 11 | Binary Search Algorithm | [Lab 11](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2011.cpp)
+| 12 | Travel through a 2D Array | [Lab 12](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2012.cpp)
+| 13 | Sorting Algorithm | [Lab 13](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2013.cpp)
+| 14 | String Comparison | [Lab 14](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2014.cpp)
 
 ## EGME 308 - Numerical Methods
 
