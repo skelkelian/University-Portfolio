@@ -3,12 +3,14 @@ This repository contains most of the projects I have worked on throughout my und
 
 ## Table of Contents  
 [CPSC 131 - Data Structures](#cpsc-131---data-structures)  
+[EGME 497 - Undergraduate Study](#egme-497---undergraduate-study)  
 [CPSC 121 - Object Oriented Programming](#cpsc-121---object-oriented-programming)  
 [CPSC 120 - Introduction to Programming](#cpsc-120---introduction-to-programming)  
 [EGME 308 - Numerical Methods](#egme-308---numerical-methods)  
 [EGME 205 - Digital Computation](#egme-205---digital-computation)    
 
 ## CPSC 131 - Data Structures
+### Homework Assignments
 In this course I learned fundamental data structures and algorithms. These data structures include arrays, vectors, stacks, queues, linked lists, trees, heaps, hash tables, and graphs. Some of the algorithms discussed were searching, sorting, traversing, and hashing. Homework in this class was a collection of "mini projects" that build on top of one another introducing new concepts as the course progressed.
 | Homework No. | Name | Key Topics | PDF File |
 | :------------: | :-------------: | :-------------: | :-------------: |
@@ -20,40 +22,46 @@ In this course I learned fundamental data structures and algorithms. These data 
 
 ## EGME 497 - Undergraduate Study
 ### Tensor Transformation Visualization
-From Summer 2021-2022, I developed a web-based application using Unity Game Engine that illustrates three-dimensional stress transformations dynamically, in real time. The development on this application was supervised by my professor Dr. Sanders. Prior to starting development, neither my professor or myself had experience using Unity game engine or writing in C#. I learned how to use Unity Game Engine through online tutorials and videos and successfully published the [web application](https://jdubulew.github.io/tensor-transform-visualization/) through GitHub Pages alongside its paper, [Visualizing tensor component transformations using virtual reality and web-based applications](https://strategy.asee.org/visualizing-tensor-component-transformations-using-virtual-reality-and-web-based-applications.pdf) published at the ASEE Conference in August 2022.
+From Summer 2021-2022, I developed a web-based application using Unity Game Engine that illustrates three-dimensional stress transformations dynamically, in real time. The development on this application was supervised by my professor Dr. Sanders. Prior to starting development, neither my professor or myself had experience using Unity game engine or writing in C#. I learned how to use Unity Game Engine through online tutorials and videos and successfully published the [web application](https://jdubulew.github.io/tensor-transform-visualization/) through GitHub Pages alongside its paper, [Visualizing tensor component transformations using virtual reality and web-based applications](https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20497%20-%20Undergraduate%20Study/visualizing-tensor-component-transformations-using-virtual-reality-and-web-based-applications.pdf) published at the ASEE Conference in August 2022.
+<p align="center">
+  <img src="https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20497%20-%20Undergraduate%20Study/tensor_transform_visualization.png" alt="Tensor Transformation Visualization Image"/>
+</p>
 
 ## CPSC 121 - Object Oriented Programming
+### Labs
 In this course I learned the concepts of object oriented programming (OOP). The homeowork (labs) are located in the [Lab Code folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Code) and the assignment description for each lab is located in the [Lab Assignments folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments).
-| Lab No. | Name | PDF File |
-| :------------: | :-------------: | :-------------: |
-| 1 | Hello World | [Lab 1](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%201.pdf) |
-| 2 | General Arithmetic Operations | [Lab 2](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%202.pdf) |
-| 3 | Constants | [Lab 3](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%203%20Constants.pdf) |
-| 4 | Type Conversion or Casting | [Lab 4](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%204%20Type%20Conversion%20or%20Casting.pdf) |
-| 5 | Using pow | [Lab 5](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%205%20Using%20pow.pdf)
-| 6 | Selection Structure Statement | [Lab 6](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%206%20Selection%20Structure.pdf)
-| 7 | Selection Structure using IF Statement | [Lab 7](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%207%20Selection%20Structure.pdf)
-| 8 | Logical AND/OR Operators | [Lab 8](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%208%20Logical%20AND%20OR.pdf)
-| 9 | Introduction to the Switch Statement | [Lab 9](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%209%20Switch%20Statement.pdf)
-| 10 | Introduction to Repetition Structure - While Statements | [Lab 10](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2010%20Intro%20To%20Repetition%20Structure.pdf)
-| 11 | Draw a Right Triangle using Nested For Loops | [Lab 11](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2011%20Draw%20a%20right%20triangle%20with%20nest%20loops.pdf)
-| 12 | Draw a Square using Nested For Loops | [Lab 12](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2012%20Repetition%20Strucuture%20-%20For%20Statement%20-%20Draw%20A%20Square.pdf)
-| 13 | N/A | N/A
-| 14 | Number to Text Conversion | [Lab 14](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2014%20Check%20writing%20program.pdf)
-| 15 | Perfect Numbers | [Lab 15](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2015%20Strings%20-%20Perfect%20Numbers.pdf)
-| 16 | Pyramid Calculator using Functions | [Lab 16](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2016%20Functions%20-%20Create%20a%20pyramid%20calculator.pdf)
-| 17 | Water Tower | [Lab 17](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2017%20Water%20Tower%20Project.pdf)
-| 18 | Adding Fractions | [Lab 18](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2018%20Adding%20Fractions.pdf)
-| 19 | Apartment Problem | [Lab 19](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2019%20Apartment%20Problem%20Project.pdf)
-| 20 | Pascal's Triangle using User Input | [Lab 20](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2020%20Pascal%20Triangle.pdf)
-| 21 | Binary to Integer | [Lab 21](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2021%20Binary%20to%20Integer%20Project.pdf)
-| 22 | EMIRPS (Backwards Prime) | [Lab 22](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2022%20-%20Emirps%20Project.pdf)
-| 23 | Repetition Free Numbers | [Lab 23](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2023%20Repetition%20Free%20Numbers.pdf)
-| 24 | Max Sequence | [Lab 24](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2024%20Max%20Sequence%20Project.pdf)
-| 25 | RGB to Hex Number | [Lab 25](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2025%20RGB%20to%20Hex%20Number.pdf)
-| 26 | Arrays Water Tower | [Lab 26](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2026%20Arrays%20Water%20Tower.pdf)
+  
+  | Lab No. | Name | PDF File |
+  | :------------: | :-------------: | :-------------: |
+  | 1 | Hello World | [Lab 1](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%201.pdf) |
+  | 2 | General Arithmetic Operations | [Lab 2](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%202.pdf) |
+  | 3 | Constants | [Lab 3](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%203%20Constants.pdf) |
+  | 4 | Type Conversion or Casting | [Lab 4](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%204%20Type%20Conversion%20or%20Casting.pdf) |
+  | 5 | Using pow | [Lab 5](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%205%20Using%20pow.pdf)
+  | 6 | Selection Structure Statement | [Lab 6](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%206%20Selection%20Structure.pdf)
+  | 7 | Selection Structure using IF Statement | [Lab 7](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%207%20Selection%20Structure.pdf)
+  | 8 | Logical AND/OR Operators | [Lab 8](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%208%20Logical%20AND%20OR.pdf)
+  | 9 | Introduction to the Switch Statement | [Lab 9](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%209%20Switch%20Statement.pdf)
+  | 10 | Introduction to Repetition Structure - While Statements | [Lab 10](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2010%20Intro%20To%20Repetition%20Structure.pdf)
+  | 11 | Draw a Right Triangle using Nested For Loops | [Lab 11](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2011%20Draw%20a%20right%20triangle%20with%20nest%20loops.pdf)
+  | 12 | Draw a Square using Nested For Loops | [Lab 12](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2012%20Repetition%20Strucuture%20-%20For%20Statement%20-%20Draw%20A%20Square.pdf)
+  | 13 | N/A | N/A
+  | 14 | Number to Text Conversion | [Lab 14](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2014%20Check%20writing%20program.pdf)
+  | 15 | Perfect Numbers | [Lab 15](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2015%20Strings%20-%20Perfect%20Numbers.pdf)
+  | 16 | Pyramid Calculator using Functions | [Lab 16](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2016%20Functions%20-%20Create%20a%20pyramid%20calculator.pdf)
+  | 17 | Water Tower | [Lab 17](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2017%20Water%20Tower%20Project.pdf)
+  | 18 | Adding Fractions | [Lab 18](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2018%20Adding%20Fractions.pdf)
+  | 19 | Apartment Problem | [Lab 19](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2019%20Apartment%20Problem%20Project.pdf)
+  | 20 | Pascal's Triangle using User Input | [Lab 20](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2020%20Pascal%20Triangle.pdf)
+  | 21 | Binary to Integer | [Lab 21](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2021%20Binary%20to%20Integer%20Project.pdf)
+  | 22 | EMIRPS (Backwards Prime) | [Lab 22](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2022%20-%20Emirps%20Project.pdf)
+  | 23 | Repetition Free Numbers | [Lab 23](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2023%20Repetition%20Free%20Numbers.pdf)
+  | 24 | Max Sequence | [Lab 24](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2024%20Max%20Sequence%20Project.pdf)
+  | 25 | RGB to Hex Number | [Lab 25](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2025%20RGB%20to%20Hex%20Number.pdf)
+  | 26 | Arrays Water Tower | [Lab 26](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20121%20-%20Object%20Oriented%20Programming/Lab%20Assignments/Lab%2026%20Arrays%20Water%20Tower.pdf)
 
 ## CPSC 120 - Introduction to Programming
+### Labs
 In this course I learned the basics of programming in C++. This includes the design and execution of programs; sequential nature of programs; use of assignment, control and input/output statements to accomplish desired tasks; design and use of functions. Homework in this class was in the form of "labs" which are located in the [Labs folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20120%20-%20Introduction%20to%20Programming).
 | Lab No. | Name | Lab Code |
 | :------------: | :-------------: | :-------------: |
@@ -72,7 +80,7 @@ In this course I learned the basics of programming in C++. This includes the des
 | 13 | Sorting Algorithm | [Lab 13](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2013.cpp)
 | 14 | String Comparison | [Lab 14](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20120%20-%20Introduction%20to%20Programming/Labs/lab%2014.cpp)
 
-#### Final Project
+### Final Project
 In the final project, we were tasked with coding a text-based game. I decided to code a text-based Maze game which allowed the player to select between mazes of various size. The code for this project is located in the [Final Project - Maze folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20120%20-%20Introduction%20to%20Programming/Final%20Project%20-%20Maze).
 
 ## EGME 308 - Numerical Methods
