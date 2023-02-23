@@ -2,12 +2,20 @@
 This repository contains most of the projects I have worked on throughout my undergraduate career.
 
 ## Table of Contents  
+[CPSC 481 - Artificial Intelligence](#cpsc-481---artificial-intelligence)  
+[CPSC 375 - Data Science](#cpsc-375---data-science)  
 [CPSC 131 - Data Structures](#cpsc-131---data-structures)  
 [EGME 497 - Undergraduate Study](#egme-497---undergraduate-study)  
 [CPSC 121 - Object Oriented Programming](#cpsc-121---object-oriented-programming)  
 [CPSC 120 - Introduction to Programming](#cpsc-120---introduction-to-programming)  
-[EGME 308 - Numerical Methods](#egme-308---numerical-methods)  
+[EGME 308 - Engineering Analysis](#egme-308---engineering-analysis)  
 [EGME 205 - Digital Computation](#egme-205---digital-computation)    
+
+## CPSC 481 - Artificial Intelligence
+Currently in progress as of Spring 2023. Updates will be made frequently to include homeworks and projects when completed.
+
+## CPSC 375 - Data Science
+Currently in progress as of Spring 2023. Updates will be made frequently to include homeworks and projects when completed.
 
 ## CPSC 131 - Data Structures
 ### Homework Assignments
@@ -83,6 +91,14 @@ In this course I learned the basics of programming in C++. This includes the des
 ### Final Project
 In the final project, we were tasked with coding a text-based game. I decided to code a text-based Maze game which allowed the player to select between mazes of various size. The code for this project is located in the [Final Project - Maze folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20120%20-%20Introduction%20to%20Programming/Final%20Project%20-%20Maze).
 
-## EGME 308 - Numerical Methods
+## EGME 308 - Engineering Analysis
+### Checkpoints
+This was a semester long, project-based course about fundamentals and engineering applications of Fourier transforms, Laplace transforms, complex analysis, and vector analysis. The project was split into four checkpoints, with the fourth being a presentation. For each checkpoint, we wrote a report using Latex which explained our thought process and detailed work. We were tasked to design a telescopic antenna that would serve as an (FM) signal receiver for portable radios. This task requires a specific design geometry which includes: number of sections, length, and thickness. All of which must meet the given design requirements as well as successfully pick up FM radio signals. At the end of the semester, my group won both the best design meaning it was the lightest along with being the least expensive design to satisfy the design requirements.
+| Checkpoint No. | Name | Key Topics | PDF File |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 1 | Design for Stress Under Static Conditions | `Laplace Transform` `Heaviside Step Function` `Shear Force` `Bending Moment` `Normal Stress` `MATLAB` `Latex` | [Checkpoint 1](https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20308%20-%20Engineering%20Analysis/Project/Checkpoint%20%231/Checkpoint%20%231.pdf)
+| 2 | Design for Deflection Under Static Conditions | `Euler-Bernoulli Beam Theory` `Dirac Delta Function` `Deflection of Beams` `Modulus of Elasticity` `MATLAB` `Latex` | [Checkpoint 2](https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20308%20-%20Engineering%20Analysis/Project/Checkpoint%20%232/Checkpoint%20%232.pdf)
+| 3 | Design for Vibration | `Euler-Bernoulli Beam Theory` `Fourier Series` `Fourier Transform` `Fundamental Frequency` `Simple Harmonic Oscillator` `Latex` | [Checkpoint 3](https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20308%20-%20Engineering%20Analysis/Project/Checkpoint%20%233/Checkpoint%20%233.pdf)
+| 4 | Design Presentation | `Microsoft Powerpoint` | N/A
 
 ## EGME 205 - Digital Computation
