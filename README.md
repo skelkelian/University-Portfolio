@@ -102,3 +102,10 @@ This was a semester long, project-based course about fundamentals and engineerin
 | 4 | Design Presentation | `Microsoft Powerpoint` | N/A
 
 ## EGME 205 - Digital Computation
+The first computer science related course I took was Digital Computation. In this course, I learned the programming language [MATLAB](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk2MSe5qz9AhVqiO4BHQIvBsUQFnoECBkQAQ&url=https%3A%2F%2Fwww.mathworks.com%2Fproducts%2Fmatlab.html&usg=AOvVaw2I52UaBehIzd-SXxzguL5I) which is a matrix-based programming language allowing the most natural expression of computational mathematics. This course served as my first introduction to Computer Science concepts. I learned about fundamental concepts in programming such as variables and loops, how to write and call functions, and wrote scripts to calculate common Engineering problems.
+
+### Final Project: Battleship
+In the final project, I was tasked with coding the text-based game, Battleship with three different difficulties. This was a great project for me to apply the concepts I learned in the course. The code for this project is located in the [Battleship Project](https://github.com/skelkelian/University-Portfolio/tree/main/EGME%20205%20-%20Digital%20Computation/Battleship%20Project) folder.
+<p align="center">
+  <img src="https://github.com/skelkelian/University-Portfolio/blob/main/EGME%20205%20-%20Digital%20Computation/Battleship%20Project/battleship_image.png"  width="500" height="500" alt="Battleship Image"/>
+</p>
