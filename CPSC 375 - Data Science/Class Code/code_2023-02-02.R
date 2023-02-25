@@ -1,0 +1,41 @@
+# CPSC 375-01
+install.packages("tidyverse")
+library(ggplot2)
+str(airquality)
+View(airquality)
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Wind))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Ozone, y = Temp, color=Wind))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Ozone, y = Temp), color="red")
+ggplot(data=airquality) +
+  geom_point(mapping=aes(x = Ozone, y = Temp, color=Wind))
+ggplot(data=airquality) +
+  geom_point(mapping=aes(x = Ozone, y = Temp, shape=Month))
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + facet_wrap(~Species)
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + facet_wrap(~Petal.Length)
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) +
+  scale_x_continuous(name="Sepal length")
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) +
+  scale_x_continuous(name="Sepal length", limits = c(5,7))
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + theme_bw()
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + theme_dark()
+
+# CPSC 375-02
+library(ggplot2)
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone))
+str(airquality)
+View(airquality)
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone), color="red")
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, shape=Month))
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + facet_wrap(~Species)
+ggplot(data = iris) + geom_point(mapping=aes(x=Sepal.Length, y=Sepal.Width)) + facet_grid(Petal.Width~Species)
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month)) + scale_x_continuous(name="Temperature")
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month)) + scale_x_continuous(name="Temperature", limits=c(60,90))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month)) + scale_x_log10(name="Temperature", limits=c(60,90))
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month)) + scale_x_log10(name="Temperature", limits=c(60,90)) + theme_dark()
+ggplot(data=airquality) + geom_point(mapping=aes(x = Temp, y = Ozone, color=Month)) + scale_x_log10(name="Temperature", limits=c(60,90)) + theme_bw()
