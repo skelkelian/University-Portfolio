@@ -3,7 +3,7 @@ This repository contains most of the projects I have worked on throughout my und
 
 ## Table of Contents  
 [CPSC 481 - Artificial Intelligence](#cpsc-481---artificial-intelligence)  
-[CPSC 375 - Data Science](#cpsc-375---data-science)  
+[CPSC 375 - Intro to Data Science and Big Data](#cpsc-375---intro-to-data-science-and-big-data)  
 [CPSC 131 - Data Structures](#cpsc-131---data-structures)  
 [EGME 497 - Undergraduate Study](#egme-497---undergraduate-study)  
 [CPSC 121 - Object Oriented Programming](#cpsc-121---object-oriented-programming)  
@@ -14,8 +14,15 @@ This repository contains most of the projects I have worked on throughout my und
 ## CPSC 481 - Artificial Intelligence
 Currently in progress as of Spring 2023. Updates will be made frequently to include homeworks and projects when completed.
 
-## CPSC 375 - Data Science
-Currently in progress as of Spring 2023. Updates will be made frequently to include homeworks and projects when completed.
+## CPSC 375 - Intro to Data Science and Big Data
+Currently in progress as of Spring 2023. More updates will be made frequently to include homeworks and projects when completed.
+### Homework Assignments
+In this course, I am learning techniques for data preparation, exploratory analysis, statistical modeling, machine learning and visualization. I am also learning about various methods for analyzing different types of data, such as natural language and time-series, from emerging applications, including Internet-of-Things. The homework is located in the [Homework folder](https://github.com/skelkelian/University-Portfolio/tree/main/CPSC%20375%20-%20Data%20Science/Homework).
+| Homework No. | PDF File | Key Topics | Homework Code |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 1 | [Homework 1](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/Homework%201.pdf) | `Introduction to R` `Data visualization: ggplot2` | [Homework 1 Code](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/homework1.R)
+| 2 | [Homework 2](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/Homework%202.pdf) | `Data visualization: ggplot2` `Exploratory Data Analysis` | [Homework 2 Code](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/homework2.R)
+| 3 | [Homework 3](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/Homework%203.pdf) | `Data Wrangling` | [Homework 3 Code](https://github.com/skelkelian/University-Portfolio/blob/main/CPSC%20375%20-%20Data%20Science/Homework/homework3.R)
 
 ## CPSC 131 - Data Structures
 ### Homework Assignments
